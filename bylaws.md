@@ -249,13 +249,13 @@ These rules of conduct may be changed independently from these Bylaws provided t
 #### Section X.6. Impeachment
   1. At any point during their term, an Officer may be impeached by the Voting Membership.
   2. To impeach an Officer, any member shall recommend their impeachment as an item of new business at an Organization meeting.
-  3. An imeachment item shall require 2/3 approval by the Voting Membership in the meeting that it is presented.
+  3. An impeachment item shall require 2/3 approval by the Voting Membership in the meeting that it is presented.
   4. If the impeachment item is approved, it shall be added to the next Organization meeting's agenda.
   5. An Organization meeting that contains an impeachment item shall occur 14 days after the previous Organization meeting.
   6. Impeachment of an Officer requires an impeachment item of old business and 2/3 approval by the Voting Membership.
   7. Once impeached, an immediate election for their replacement shall take place.
   8. The Impeached Officer cannot run in the immediate election for their replacement.
-  9. The Elected Officer shall serve out the remainder of their predecsssor's term.
+  9. The Elected Officer shall serve out the remainder of their predecessor's term.
 
 #### Section X.7. Removal of Risk Chair Position
   1. Article Section Item IV.2.5 shall be removed from the Bylaws.
