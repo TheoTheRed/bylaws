@@ -14,7 +14,7 @@ This subsidiary of the Corporation shall be referred to using one of the followi
   2. Alumni Organization of Triangle Fraternity of University of Maryland, Baltimore County
   3. University of Maryland, Baltimore County Triangle Fraternity Alumni Organization
   4. University of Maryland, Baltimore County Triangle Alumni Organization
-For the purpose of these bylaws and conducting internal business, this subsidiary shall be called “Alumni Organization” or “Organization”.  Abbreviations of terms within these names are allowed.  
+For the purpose of these bylaws and conducting internal business, this subsidiary shall be called “Alumni Organization” or “Organization”.  Abbreviations of terms within these names are allowed.
 
 ### Article II. Purpose
 The Alumni Organization is a chapter of Triangle Fraternity, and as such, its fundamental purpose shall be to uphold the precepts the Fraternity.
@@ -61,8 +61,8 @@ Only members of the Organization deemed a Sponsor or Participant shall be allowe
 #### Section IV.1. General
   1. The rank and order of these positions reflect the priority of the office.
   2. Each office will be for a term of 1 year.
-  3. Officers of the Alumni Organization shall be considered the Executive Board.  
-  4. Only Sponsor members shall be eligible to hold these offices.  
+  3. Officers of the Alumni Organization shall be considered the Executive Board.
+  4. Only Sponsor members shall be eligible to hold these offices.
   5. Officers shall be responsible for conducting business of the Organization on behalf of its members.
 
 #### Section IV.2. Positions
@@ -164,18 +164,18 @@ Only members of the Organization deemed a Sponsor or Participant shall be allowe
 
 #### Section VI.1. Nominations
 
-  1. Candidates for Organization’s Officers must be nominated by themselves or another member.  
-  2. All nominations require affirmation from a different member than the one submitting the nomination. 
+  1. Candidates for Organization’s Officers must be nominated by themselves or another member.
+  2. All nominations require affirmation from a different member than the one submitting the nomination.
   3. Nominated individuals must accept or decline the offer to run for office.
   4. All nominations must be completed 1 week prior to the meeting that voting will take place.
-     Any unaffirmed or unaccepted nominations are void after that time. 
+     Any unaffirmed or unaccepted nominations are void after that time.
   5. Individuals may accept nominations for more than 1 office.
   6. All affirmed and accepted nominations must be validated by the Vice President to ensure the member is of Sponsor standing prior to the date of elections.
-     Any nominations for non Sponsor members will be dropped from the ballot.
+  7. Any nominations for non Sponsor members will be dropped from the ballot.
 
 #### Section VI.2. Election Procedure
   1. Elections will be run and votes counted by a non-voting member (this may be an inactive member or a volunteer).
-     If no such person exists or there are several volunteers, the responsibility shall fall to the member with the lowest initiation number. 
+     If no such person exists or there are several volunteers, the responsibility shall fall to the member with the lowest initiation number.
   2. Elections will start with the highest vacant position.
   3. For each vacant office being elected:
     1. All nominees shall be allowed to address the voting membership.
@@ -195,7 +195,7 @@ Only members of the Organization deemed a Sponsor or Participant shall be allowe
   3. Only Alumni in attendance at an Organization Meeting may be eligible for membership to the Treasury Committee, and only by approval by the Executive Board.
 
 #### Section VII.2. Temporary Committees
-  1. Should an item of business at an Organization meeting take longer than its assigned time in the Agenda, a Temporary Committee shall be established. 
+  1. Should an item of business at an Organization meeting take longer than its assigned time in the Agenda, a Temporary Committee shall be established.
   2. Once the Temporary Committee membership and leader has been selected, the item of business in the meeting is closed.
   3. Only Sponsors in attendance at a Organization Meeting shall be eligible for membership to a Temporary Committee.
   4. The Temporary Committee Leader shall be selected by consensus of the Executive Board on creation of the Temporary Committee.
@@ -223,10 +223,10 @@ These rules of conduct may be changed independently from these Bylaws provided t
 ### Article X. Amendments
 
 #### Section X.1. Process
-  1. Amendments to these Bylaws shall only be proposed at any Organization Meeting as an item of new business for review. 
-  2. All proposed amendments must include a written intent of the change. 
-  3. The amendment will be voted on by the present members.  If accepted by the majority of those present, the amendment shall be considered finalized. 
-  4. Finalized amendments and their written intent shall be submitted to the entire membership for consideration at least 14 days in advance of the next Organization Meeting.  
+  1. Amendments to these Bylaws shall only be proposed at any Organization Meeting as an item of new business for review.
+  2. All proposed amendments must include a written intent of the change.
+  3. The amendment will be voted on by the present members.  If accepted by the majority of those present, the amendment shall be considered finalized.
+  4. Finalized amendments and their written intent shall be submitted to the entire membership for consideration at least 14 days in advance of the next Organization Meeting.
 
 #### Section X.2. Proxy Votes
   1. Proxy votes may be submitted to the President for inclusion in the counted vote no later than 24 hours before the meeting.
@@ -234,3 +234,30 @@ These rules of conduct may be changed independently from these Bylaws provided t
 #### Section X.3. Ratification
   1. Ratification of finalized amendments to these bylaws shall require 2/3 approval from the total sponsor and participant membership
   2. Ratified bylaw changes take effect immediately.
+
+#### Section X.4. Voting Membership
+  1. The Voting Membership shall be defined as the set of all members from the sponsor membership.
+  2. Upon ratification, Amendment Section X.3.1 shall be modified to require 2/3 approval from Voting Membership.
+  3. Upon ratification, Article Section Item V.1.3.1 shall be modified to require 1/4 of Voting Membership.
+
+#### Section X.5. Abdication
+  1. At any point during their term, an Officer may exercise the option to abdicate their position.
+  2. To abdicate their position, the Officer shall submit their abdication in writing to the Executive Board.
+  2. When an Officer abdicates their position, it shall be filled by appointment of the President.
+  3. An appointed Officer shall serve out the remainder of their predecessor's term.
+
+#### Section X.6. Impeachment
+  1. At any point during their term, an Officer may be impeached by the Voting Membership.
+  2. To impeach an Officer, any member shall recommend their impeachment as an item of new business at an Organization meeting.
+  3. An imeachment item shall require 2/3 approval by the Voting Membership in the meeting that it is presented.
+  4. If the impeachment item is approved, it shall be added to the next Organization meeting's agenda.
+  5. An Organization meeting that contains an impeachment item shall occur 14 days after the previous Organization meeting.
+  6. Impeachment of an Officer requires an impeachment item of old business and 2/3 approval by the Voting Membership.
+  7. Once impeached, an immediate election for their replacement shall take place.
+  8. The Impeached Officer cannot run in the immediate election for their replacement.
+  9. The Elected Officer shall serve out the remainder of their predecsssor's term.
+
+#### Section X.7. Removal of Risk Chair Position
+  1. Article Section Item IV.2.5 shall be removed from the Bylaws.
+  2. Article Section Item IV.2.6 shall be enumerated as Article Section Item IV.2.5.
+  2. Upon ratification of this amendment, Amendment Section X.7 shall be removed from the Bylaws.
